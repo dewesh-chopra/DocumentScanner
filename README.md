@@ -40,15 +40,15 @@ cd build
 cmake ..
 make
 ```
-3. Usage
-Replace the Resources/doc-img.jpg file with your own image.
+## vUsage
+1. Replace the Resources/doc-img.jpg file with your own image.
 
-4. Run the application:
+2. Run the application:
 ```shell
 ./document-scanner
 ```
 
-5. The application will display the original image, dilated image, warped image, and cropped image.
+3. The application will display the original image, dilated image, warped image, and cropped image.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, please submit a pull request.
