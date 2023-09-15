@@ -40,7 +40,7 @@ cd build
 cmake ..
 make
 ```
-## vUsage
+## Usage
 1. Replace the Resources/doc-img.jpg file with your own image.
 
 2. Run the application:
